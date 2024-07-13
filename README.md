@@ -26,10 +26,3 @@ JavaScript is a versatile programming language commonly used in web development.
   
 - **Asynchronous JavaScript**: Promises, async/await basics.
 
-## How to Use
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/javascript-basics.git
-cd javascript-basics
